@@ -13,7 +13,6 @@
     "themes": [
       {
         "label": "blackblood",
-        "uiTheme": "vs-dark",
         "path": "./themes/blackblood-color-theme.json"
       }
     ]
