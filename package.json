@@ -17,5 +17,9 @@
         "path": "./themes/blackblood-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/username/repository.git"
   }
 }
